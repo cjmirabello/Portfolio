@@ -1,2 +1,2 @@
 # Portfolio
-Resume repository 
+Resume Portfolio for potential Software jobs 
